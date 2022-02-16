@@ -28,7 +28,7 @@ export default Viewers
 
 const Container = styled.div`
     margin-top: 30px;
-    padding-top 30px;
+    padding-top: 30px;
     padding-bottom: 25px;
 
     display: grid;
